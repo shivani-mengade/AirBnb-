@@ -23,4 +23,4 @@ Most Airbnb listings fall under a certain price range, with a long tail of highe
 
 Manhattan listings tend to have higher average prices compared to other boroughs
 
-There’s a noticeable (though not strictly linear) relationship between review count and price — many high-priced listings don’t necessarily have more reviews
+There’s a noticeable (though not strictly linear) relationship between review count and price many high-priced listings don’t necessarily have more reviews
